@@ -42,16 +42,6 @@ dotnet run
 - Instant feedback on answers
 - Progress tracking and final score display
 
-## API Documentation
-
-The API provides the following endpoints:
-
-- `/Questions`: GET Random 15 quiz Questions
-- `/Questions/GetAnswers`: GET Answers
-- `/Participants`: Get and Create Participants
-
-For more details, refer to the API documentation in the `backend` directory.
-
 ## Acknowledgments
 
 - [React](https://reactjs.org/)
